@@ -1,6 +1,7 @@
 # Stereoscopic-Demo
 
 This is a Demonstration of the two algorithms of Stereoscopic visions.
+Report: http://mino.moe/publics/The-Theory-And-Its-Application-Of-Stereoscopic-Vision.pdf
 
 # About the files
 
